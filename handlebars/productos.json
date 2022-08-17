@@ -1,0 +1,20 @@
+[
+    {
+        "title": "Martillo",
+        "price": 90,
+        "thumbnail": "https://pixabay.com/es/photos/martillo-de-orejas-martillo-2202195/",
+        "id": 1
+    },
+    {
+        "title": "Taladro",
+        "price": 560,
+        "thumbnail": "https://pixabay.com/es/vectors/taladro-el%c3%a9ctrico-martillo-taladro-154903/",
+        "id": 2
+    },
+    {
+        "title": "Desarmador",
+        "price": 35,
+        "thumbnail": "https://www.istockphoto.com/es/foto/destornillador-y-tornillos-gm476379993-35418614",
+        "id": 3
+    }
+]
